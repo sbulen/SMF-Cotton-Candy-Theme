@@ -29,3 +29,4 @@ This theme is, in part, a demo.  Theme designers should feel free to borrow code
 [b]Releases:[/b]
  - v1.4 Initial release
  - v1.5 Ensure proper defaults used on initial load
+ - v1.6 Color enhancements; more user control & fix some contrast issues
