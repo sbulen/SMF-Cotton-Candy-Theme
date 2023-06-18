@@ -31,3 +31,4 @@ This theme is, in part, a demo.  Theme designers should feel free to borrow code
  - v1.5 Ensure proper defaults used on initial load
  - v1.6 Color enhancements; more user control & fix some contrast issues
  - v1.7 2.1.4 updates
+ - v1.8 Improve contrast, consistency, user control 
