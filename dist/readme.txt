@@ -33,3 +33,4 @@ This theme is, in part, a demo.  Theme designers should feel free to borrow code
  - v1.7 2.1.4 updates
  - v1.8 Improve contrast, consistency, user control 
  - v1.9 Fix typo, address console error
+ - v1.10 Fix stray checkbox bug
