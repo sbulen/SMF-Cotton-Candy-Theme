@@ -35,3 +35,4 @@ This theme is, in part, a demo.  Theme designers should feel free to borrow code
  - v1.9 Fix typo, address console error
  - v1.10 Fix stray checkbox bug
  - v1.11 2.1.5 & 2.1.6 updates; misc tweaks
+ - v1.12 Minor fixes to contrast & checkbox alignment
