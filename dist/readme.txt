@@ -37,3 +37,4 @@ This theme is, in part, a demo.  Theme designers should feel free to borrow code
  - v1.11 2.1.5 & 2.1.6 updates; misc tweaks
  - v1.12 Minor fixes to contrast & checkbox alignment
  - v1.13 Minor cleanup
+ - v1.14 2.1.7 Updates
